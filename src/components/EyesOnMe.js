@@ -4,9 +4,9 @@ import React from 'react';
 
 class EyesOnMe extends React.Component {
 
-    onFocus = () => console.log('Complete')
+    onFocus = () => console.log('Good!')
 
-    onBlur = () => console.log('Entered')
+    onBlur = () => console.log('Hey! Eyes on me!')
 
     render() {
         return ( <
